@@ -1,5 +1,5 @@
 import React from "react"
 
 export default function Home() {
-  return <div>Hahhhhhhhbouuuuutttttd!</div>
+  return <div>Hello Worldf!</div>
 }
